@@ -8,6 +8,7 @@ SET UP
 2. Scroll to the bottom of the list
 
 3. Paste the below repo source in your sources.list
+    
     deb http://http.kali.org/kali kali-rolling main non-free contrib
 
 4.ctrl+s
