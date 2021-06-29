@@ -22,7 +22,7 @@ SET UP
 
 
 7.sudo apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6 #(this will fix the GPG error)
-If this is not working, try this: 
+If this is not working, try this: <br>
 wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add 
 
 8.sudo apt-get update
